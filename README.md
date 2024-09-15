@@ -1,1 +1,3 @@
-# Personal Website
+# SnowCharmQ Website
+
+https://snowcharmq.github.io/
